@@ -1,3 +1,5 @@
+> **This project now lives on in [Agent-Friday](https://github.com/FutureSpeakAI/Agent-Friday), archived 2026-10-11.**
+
 # hmac-integrity
 
 HMAC-SHA256 signing and verification for file integrity, object signing, and tamper detection — with pluggable key encryption.
